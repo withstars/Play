@@ -1,2 +1,2 @@
-# PracticeProject
-Some of my practical projects
+# Small-Projects
+Some of small projects.
